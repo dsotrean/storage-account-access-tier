@@ -3,7 +3,7 @@
         "mode": "All",
         "parameters": {},
         "displayName": "Deny cool access tiering for storage accounts",
-        "description": "Ensures there's no usage of cool access tiering for storage.",
+        "description": "Ensures there's no usage of cool access Tiering for storage.",
         "policyRule": {
             "if": {
                 "allOf": [
